@@ -1,1 +1,1 @@
-{"version":"0.2.4", "footsitesConfig":{"queueDelay":8000, "atcAttempts":15}}
+{"version":"0.2.5", "footsitesConfig":{"queueDelay":8000, "atcAttempts":25}}
